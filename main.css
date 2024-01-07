@@ -98,6 +98,31 @@ body {
   color: black;
 }
 
+.social-icons2 .fab, .social-icons2 .fas {
+  text-decoration: none;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 40px;
+  font-size: 17px;
+  color: #000;
+  background: #a8a8a8;
+  margin-right: 15px;
+  cursor: pointer;
+  margin: 5px;
+  transition: 300ms;
+  margin-top: 0px;
+}
+
+.social-icons2 {
+  cursor: pointer;
+}
+
+.social-icons2 .fab:hover, .social-icons2 .fas:hover {
+    background: #F8DB9A;
+    color: black; }
+
 header {
   position: fixed;
   top: 66px; 
